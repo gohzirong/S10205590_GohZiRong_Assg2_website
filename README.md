@@ -1,4 +1,5 @@
 # S10205590_GohZiRong_Assg2_website
+https://gohzirong.github.io/S10205590_GohZiRong_Assg2_website/
 
 # Description
 This website is targetted towards Yu-Gi-Oh fans who want to look up the details on certain cards for when they are trying to build a deck 
